@@ -6,6 +6,8 @@ New templates will be added as I create content myself, but you're welcome to ad
 
 **NOTE:** These templates are made in [GIMP](https://www.gimp.org/downloads/), but are exported as PSD files for more universal support, since Photoshop doesn't support GIMP's native XCF format.
 
+**WARNING:** These templates are not hard guidelines as I haven't looked into actual pixel arrays or if they're even really enforced. My honest advice is deviate a tiny bit if you need to, or even experiment, but don't fret over something being a pixel or two off, because there's probably a lot of room left to toy with stuff, I just based these on the existing assets for the most part, which are honestly also not exactly perfect in terms of pixel placements. I may play with it myself and see how much the boundaries can be pushed.
+
 ## How to use custom content
 
 Custom content created using these templates can be loaded using [WECCL](https://github.com/IngoHHacks/WECCL).
