@@ -1,10 +1,10 @@
-# Wrestling Empire GIMP Templates
+# Wrestling Empire Texture Templates
 
 This is a collection of templates I've created for my use, as well as yours, in creating modded content for [Wrestling Empire](https://store.steampowered.com/app/1620340/Wrestling_Empire/). I've created these based on the existing assets ripped from the game, which can be found in the [Modding Discord](#modding-discord).
 
 New templates will be added as I create content myself, but you're welcome to add your own with a pull request or by tagging me in the [Modding Discord](#modding-discord), so you can send them to me to be added.
 
-**NOTE:** These templates are intended for [GIMP 2.10](https://www.gimp.org/downloads/) or newer.
+**NOTE:** These templates are made in [GIMP](https://www.gimp.org/downloads/), but are exported as PSD files for more universal support, since Photoshop doesn't support GIMP's native XCF format.
 
 ## How to use custom content
 
